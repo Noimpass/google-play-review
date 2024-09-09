@@ -1,0 +1,37 @@
+{
+    "languages":[
+        {
+            "country":"us",
+            "lang":"en"
+        },
+        {
+            "country":"ru",
+            "lang":"ru"
+        },
+        {
+            "country":"de",
+            "lang":"de"
+        },
+        {
+            "country":"fr",
+            "lang":"fr"
+        },
+        {
+            "country":"es",
+            "lang":"es"
+        },
+        {
+            "country":"it",
+            "lang":"it"
+        },
+        {
+            "country":"pl",
+            "lang":"pl"
+        },
+        {
+            "country":"tr",
+            "lang":"tr"
+        }
+    
+    ]
+}

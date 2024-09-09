@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "google-play-review-parser"
+version = "0.1.0"
+description = ""
+authors = ["0xJanus"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+google-play-scraper = "^1.2.7"
+pandas = "^2.2.2"
+openpyxl = "^3.1.5"
+pycountry = "^24.6.1"
+xlsxwriter = "^3.2.0"
+translators = "^5.9.2"
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
